@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0001-two-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
