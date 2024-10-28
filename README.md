@@ -18,4 +18,16 @@
 | [0178-rank-scores](https://github.com/MarkPhamm/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MarkPhamm/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
