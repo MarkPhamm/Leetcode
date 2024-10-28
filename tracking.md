@@ -20,4 +20,7 @@
   - Hash map
 - **392.** Is Subsequence
   - Two Pointer
+- **121.** Best Time to Buy and Sell Stock
+- **228.** Summary Ranges
+
   
