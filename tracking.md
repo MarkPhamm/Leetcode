@@ -14,3 +14,10 @@
 - **1.** Two Sum
     - Two Pointer (requires a sorted list)
 - **2239.** Find Closest Number to Zero
+- **1768.** Merge Strings Alternately
+  - Two Pointer
+- **13.** Roman to Integer
+  - Hash map
+- **392.** Is Subsequence
+  - Two Pointer
+  
