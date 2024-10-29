@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MarkPhamm/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkPhamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/0228-summary-ranges) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MarkPhamm/Leetcode/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
