@@ -9,21 +9,15 @@ class Solution:
             "D":500,
             "M":1000
         }
-        
+    
         sum = 0
-        n = len(s)
         i = 0
+        n = len(s)
         while i < n:
-            if i == n-1:
-                sum+=dict[s[i]]
-                i+=1
-            elif dict[s[i]] >= dict[s[i+1]]:
-                total = dict[s[i]]
-                sum+=total
-                i+=1
-            else:
-                total = -dict[s[i]] + dict[s[i+1]]
-                sum+=total
+            if i < n-1 and dict[s[i]] < dict[s[i+1]]:
+                sum+= dict[s[i+1]] - dict[s[i]]
                 i+=2
+            else:
+                sum+= dict[s[i]]
+                i+=1
         return sum
-        
