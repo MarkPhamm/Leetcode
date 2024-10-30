@@ -32,6 +32,13 @@
 
 ## Day 4 (10/30/2024) - Review Day
 - **228.** Summary Ranges
+  - two-pointer:
+    1. loop for i < n
+    2. if i = n-1 (n is the last element): append "i" if i == j else append "i->j"
+    3. else check nums[i] and nums[i+1]:
+       - if num[i]+1 != nums[i]: log "i" if i == j else append "i->j", j=i+1
+       - else: do nothing
+       
 - **27.** Remove Element 
 - **771.** Jewels and Stones
 - **217.** Contains Duplicate
