@@ -17,4 +17,6 @@ class Solution:
                     results.append(str(nums[j]) + "->" + str(nums[i]))
                 j = i+1
         return results
-                
+
+# time complexity (O(n))
+# space complexity (O(1))
