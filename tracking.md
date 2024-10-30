@@ -23,4 +23,12 @@
 - **121.** Best Time to Buy and Sell Stock
 - **228.** Summary Ranges
 
+## Day 3 (10/29/2024)
+- **27.** Remove Element 
+- **771.** Jewels and Stones
+- **217.** Contains Duplicate
+- **383.** Ransom Note
+- **20.** Valid Parentheses
+
+
   
