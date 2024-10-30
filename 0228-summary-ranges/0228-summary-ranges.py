@@ -4,21 +4,17 @@ class Solution:
         i = 0
         j = 0
         results = []
-        while i < n:
-            if i < n-1:
-                if nums[i]+1 != nums[i+1]:
-                    if j == i:
-                        results.append(str(nums[j]))
-                    else:
-                        results.append(str(nums[j]) + "->" + str(nums[i]))
-                    j = i+1
-                i+=1
-            else:
+        for i in range(n):
+            if i == n-1:
                 if j == i:
                     results.append(str(nums[j]))
-                    break
                 else:
                     results.append(str(nums[j]) + "->" + str(nums[i]))
-                    break
+            elif nums[i]+1 != nums[i+1]:
+                if j == i:
+                    results.append(str(nums[j]))
+                else:
+                    results.append(str(nums[j]) + "->" + str(nums[i]))
+                j = i+1
         return results
                 
