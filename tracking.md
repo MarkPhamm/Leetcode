@@ -39,7 +39,13 @@
        - if num[i]+1 != nums[i]: log "i" if i == j else append "i->j", j=i+1
        - else: do nothing
        
-- **27.** Remove Element 
+- **27.** Remove Element
+  - two-pointer:
+    - while i<=j:
+      1. check if num i is the value:
+         - if yes: switch nums[i] and nums[j], reduce j by 1
+         - if no: increase i by 1
+      2. return i+1   
 - **771.** Jewels and Stones
 - **217.** Contains Duplicate
 - **383.** Ransom Note
