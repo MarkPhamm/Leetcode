@@ -30,5 +30,13 @@
 - **383.** Ransom Note
 - **20.** Valid Parentheses
 
+## Day 4 (10/30/2024) - Review Day
+- **228.** Summary Ranges
+- **27.** Remove Element 
+- **771.** Jewels and Stones
+- **217.** Contains Duplicate
+- **383.** Ransom Note
+- **20.** Valid Parentheses
+
 
   
