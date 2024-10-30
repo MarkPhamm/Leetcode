@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -63,6 +64,7 @@
 | [0001-two-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
