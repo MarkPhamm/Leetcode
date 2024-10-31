@@ -1,7 +1,6 @@
 # Write your MySQL query statement below
+with cte as (select
+x, lag(x,1) over(order by x) as px
+from Point)
 
-SELECT 
-min(abs(p1.x-p2.x)) as shortest
-FROM Point p1
-JOIN Point p2
-ON p1.x != p2.x
+select min(abs(x-px)) as shortest from cte
