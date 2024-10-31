@@ -48,6 +48,7 @@
       2. return i+1   
 - **771.** Jewels and Stones
 - **217.** Contains Duplicate
+  - return len(set(nums)) != len(nums)   
 - **383.** Ransom Note
 - **20.** Valid Parentheses
 
