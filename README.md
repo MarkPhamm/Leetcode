@@ -37,6 +37,7 @@
 | [0574-winning-candidate](https://github.com/MarkPhamm/Leetcode/tree/master/0574-winning-candidate) |
 | [0577-employee-bonus](https://github.com/MarkPhamm/Leetcode/tree/master/0577-employee-bonus) |
 | [0578-get-highest-answer-rate-question](https://github.com/MarkPhamm/Leetcode/tree/master/0578-get-highest-answer-rate-question) |
+| [0580-count-student-number-in-departments](https://github.com/MarkPhamm/Leetcode/tree/master/0580-count-student-number-in-departments) |
 | [0585-investments-in-2016](https://github.com/MarkPhamm/Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MarkPhamm/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/MarkPhamm/Leetcode/tree/master/0596-classes-more-than-5-students) |
