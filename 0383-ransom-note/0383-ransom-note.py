@@ -1,13 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        CounterBadLet = 0
-    
+        letter = 0
         for char in ransomNote:
-            if char not in magazine:
-                CounterBadLet += 1
-            else:
+            if char in magazine:
                 magazine = magazine.replace(char, "", 1)
-
-        return CounterBadLet == 0
+            else: 
+                letter +=1
         
+        return letter == 0
         
