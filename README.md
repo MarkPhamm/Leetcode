@@ -49,6 +49,7 @@
 | [0610-triangle-judgement](https://github.com/MarkPhamm/Leetcode/tree/master/0610-triangle-judgement) |
 | [0612-shortest-distance-in-a-plane](https://github.com/MarkPhamm/Leetcode/tree/master/0612-shortest-distance-in-a-plane) |
 | [0613-shortest-distance-in-a-line](https://github.com/MarkPhamm/Leetcode/tree/master/0613-shortest-distance-in-a-line) |
+| [0614-second-degree-follower](https://github.com/MarkPhamm/Leetcode/tree/master/0614-second-degree-follower) |
 | [0619-biggest-single-number](https://github.com/MarkPhamm/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/MarkPhamm/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/MarkPhamm/Leetcode/tree/master/0627-swap-salary) |
