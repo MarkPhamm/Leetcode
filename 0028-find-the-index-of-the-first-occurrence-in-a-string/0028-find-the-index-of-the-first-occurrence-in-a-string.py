@@ -4,14 +4,14 @@ class Solution:
             return 0
         if needle not in haystack:
             return -1
+        
         i = 0
         j = 0
-
         while i < len(haystack) and j < len(needle):
             if haystack[i] == needle[j]:
-                i += 1
-                j += 1
+                i+=1
+                j+=1
             else:
-                i = i - j + 1  # Move i to the next character after the last matched
-                j = 0
-        return i - j if j == len(needle) else -1
+                i = i-j+1
+                j=0
+        return i-j
