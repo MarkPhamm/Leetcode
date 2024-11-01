@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MarkPhamm/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MarkPhamm/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkPhamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/0228-summary-ranges) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/MarkPhamm/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
