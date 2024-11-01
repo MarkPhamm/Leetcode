@@ -77,6 +77,7 @@
 | [0009-palindrome-number](https://github.com/MarkPhamm/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MarkPhamm/Leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -145,4 +146,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MarkPhamm/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MarkPhamm/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
