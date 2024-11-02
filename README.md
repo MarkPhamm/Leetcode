@@ -70,6 +70,7 @@
 | [1180-game-play-analysis-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/MarkPhamm/Leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1193-game-play-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/1193-game-play-analysis-v) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 ## Math
 |  |
