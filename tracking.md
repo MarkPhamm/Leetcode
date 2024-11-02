@@ -52,5 +52,17 @@
 - **383.** Ransom Note
 - **20.** Valid Parentheses
 
+## Day 5 (10/30/2024) - SQL day
+
+## Day 6 (1/11/2024) 
+- 69. Sqrt(x)
+- 66. Plus One
+- 58. Length of Last Word
+- 35. Search Insert Position
+- 14. Longest Common Prefix
+
+
+
+
 
   
