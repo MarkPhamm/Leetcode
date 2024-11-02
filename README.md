@@ -75,6 +75,7 @@
 | [1204-new-users-daily-count](https://github.com/MarkPhamm/Leetcode/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/MarkPhamm/Leetcode/tree/master/1214-highest-grade-for-each-student) |
 | [1215-reported-posts](https://github.com/MarkPhamm/Leetcode/tree/master/1215-reported-posts) |
+| [1237-reported-posts-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1237-reported-posts-ii) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 ## Math
 |  |
