@@ -77,6 +77,7 @@
 | [1215-reported-posts](https://github.com/MarkPhamm/Leetcode/tree/master/1215-reported-posts) |
 | [1237-reported-posts-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1237-reported-posts-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
+| [1269-market-analysis-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1269-market-analysis-ii) |
 | [1318-tournament-winners](https://github.com/MarkPhamm/Leetcode/tree/master/1318-tournament-winners) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 ## Math
