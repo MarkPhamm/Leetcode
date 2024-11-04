@@ -101,6 +101,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MarkPhamm/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MarkPhamm/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
@@ -120,6 +121,7 @@
 | [0001-two-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
