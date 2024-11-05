@@ -85,6 +85,7 @@
 | [1328-monthly-transactions-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/MarkPhamm/Leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1377-number-of-comments-per-post](https://github.com/MarkPhamm/Leetcode/tree/master/1377-number-of-comments-per-post) |
+| [1438-find-the-team-size](https://github.com/MarkPhamm/Leetcode/tree/master/1438-find-the-team-size) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
