@@ -86,6 +86,7 @@
 | [1339-team-scores-in-football-tournament](https://github.com/MarkPhamm/Leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1377-number-of-comments-per-post](https://github.com/MarkPhamm/Leetcode/tree/master/1377-number-of-comments-per-post) |
 | [1399-page-recommendations](https://github.com/MarkPhamm/Leetcode/tree/master/1399-page-recommendations) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1425-weather-type-in-each-country](https://github.com/MarkPhamm/Leetcode/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/MarkPhamm/Leetcode/tree/master/1438-find-the-team-size) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
