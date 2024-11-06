@@ -92,6 +92,7 @@
 | [1439-running-total-for-different-genders](https://github.com/MarkPhamm/Leetcode/tree/master/1439-running-total-for-different-genders) |
 | [1453-ads-performance](https://github.com/MarkPhamm/Leetcode/tree/master/1453-ads-performance) |
 | [1481-students-with-invalid-departments](https://github.com/MarkPhamm/Leetcode/tree/master/1481-students-with-invalid-departments) |
+| [1494-activity-participants](https://github.com/MarkPhamm/Leetcode/tree/master/1494-activity-participants) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
