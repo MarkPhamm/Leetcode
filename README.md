@@ -94,6 +94,7 @@
 | [1481-students-with-invalid-departments](https://github.com/MarkPhamm/Leetcode/tree/master/1481-students-with-invalid-departments) |
 | [1494-activity-participants](https://github.com/MarkPhamm/Leetcode/tree/master/1494-activity-participants) |
 | [1504-get-the-second-most-recent-activity](https://github.com/MarkPhamm/Leetcode/tree/master/1504-get-the-second-most-recent-activity) |
+| [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/MarkPhamm/Leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
