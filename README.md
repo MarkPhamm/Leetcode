@@ -97,6 +97,7 @@
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/MarkPhamm/Leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/MarkPhamm/Leetcode/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1551-npv-queries](https://github.com/MarkPhamm/Leetcode/tree/master/1551-npv-queries) |
+| [1564-create-a-session-bar-chart](https://github.com/MarkPhamm/Leetcode/tree/master/1564-create-a-session-bar-chart) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
