@@ -89,6 +89,7 @@
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1425-weather-type-in-each-country](https://github.com/MarkPhamm/Leetcode/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/MarkPhamm/Leetcode/tree/master/1438-find-the-team-size) |
+| [1439-running-total-for-different-genders](https://github.com/MarkPhamm/Leetcode/tree/master/1439-running-total-for-different-genders) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
