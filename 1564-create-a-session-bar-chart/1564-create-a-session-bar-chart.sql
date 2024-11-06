@@ -1,16 +1,33 @@
-WITH cte AS (
-    SELECT '[0-5>' AS bin,  0 AS min_duration, 5*60 AS max_duration
-    UNION ALL
-    SELECT '[5-10>' AS bin,  5*60 AS min_duration, 10*60 AS max_duration
-    UNION ALL
-    SELECT '[10-15>' AS bin, 10*60 AS min_duration, 15*60 AS max_duration
-    UNION ALL
-    SELECT '15 or more' AS bin,  15*60 as min_duration, 2147483647 AS max_duration
-    )
+# Write your MySQL query statement below
+WITH CTE as
+(
+SELECT
+    *,
+    CASE 
+        WHEN duration/60 > 0 AND duration/60 < 5 THEN "[0-5>"
+        WHEN duration/60 >= 5 AND duration/60 < 10 THEN "[5-10>"
+        WHEN duration/60 >= 10 AND duration/60 < 15 THEN "[10-15>"
+        ELSE "15 or more"
+    END AS bin
+FROM Sessions
+), 
+count_of_bins AS
+(
+    SELECT bin, COUNT(*) AS total FROM CTE
+    GROUP BY 1
+),
+bins_cte AS
+(
+    SELECT "[0-5>" bin
+    UNION 
+    SELECT "[5-10>" bin
+    UNION
+    SELECT "[10-15>" bin
+    UNION
+    SELECT "15 or more" bin
+)
 
-SELECT cte.bin, COUNT(s.session_id) AS total
-FROM Sessions s
-RIGHT JOIN cte 
-		ON s.duration >= min_duration 
-        AND s.duration < max_duration				 
-GROUP BY cte.bin;
+
+SELECT bin, IFNULL(total,0) total FROM bins_cte
+LEFT JOIN count_of_bins
+USING(bin)
