@@ -3,21 +3,18 @@ class Solution:
         count = {}
         frequency = [[] for i in range(len(nums)+1)]
         
+        # Initiate the count
         for num in nums:
             count[num] = count.get(num,0) + 1
         
-        arr = []
+        # sort the count into buckets, each buckets as the number of occurence
         for n, cnt in count.items():
-            arr.append([cnt,n])
-        
-        arr.sort(reverse = True)
+            frequency[cnt].append(n)
 
         ans = []
-        for i in range(k):
-            ans.append(arr[i][1])
-        return ans
-
-        print(arr)
-
-        # print(frequency)
-        
+        for i in range(len(frequency)-1, 0,-1):
+            for n in frequency[i]:
+                ans.append(n)
+                if len(ans) == k:
+                    return ans
+    
