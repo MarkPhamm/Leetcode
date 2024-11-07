@@ -107,6 +107,7 @@
 | [0013-roman-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MarkPhamm/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MarkPhamm/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -154,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MarkPhamm/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkPhamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -183,4 +185,8 @@
 | [0035-search-insert-position](https://github.com/MarkPhamm/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MarkPhamm/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MarkPhamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MarkPhamm/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
