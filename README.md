@@ -101,6 +101,7 @@
 | [1564-create-a-session-bar-chart](https://github.com/MarkPhamm/Leetcode/tree/master/1564-create-a-session-bar-chart) |
 | [1625-group-sold-products-by-the-date](https://github.com/MarkPhamm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/MarkPhamm/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
+| [1654-customer-order-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MarkPhamm/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
