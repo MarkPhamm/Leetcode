@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/MarkPhamm/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkPhamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/MarkPhamm/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MarkPhamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/0228-summary-ranges) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MarkPhamm/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/MarkPhamm/Leetcode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
