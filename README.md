@@ -104,6 +104,7 @@
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/MarkPhamm/Leetcode/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1551-npv-queries](https://github.com/MarkPhamm/Leetcode/tree/master/1551-npv-queries) |
 | [1564-create-a-session-bar-chart](https://github.com/MarkPhamm/Leetcode/tree/master/1564-create-a-session-bar-chart) |
+| [1579-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/1579-active-users) |
 | [1625-group-sold-products-by-the-date](https://github.com/MarkPhamm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/MarkPhamm/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1654-customer-order-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1654-customer-order-frequency) |
