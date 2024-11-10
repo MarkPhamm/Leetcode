@@ -114,6 +114,7 @@
 | [1641-countries-you-can-safely-invest-in](https://github.com/MarkPhamm/Leetcode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MarkPhamm/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1686-fix-product-name-format](https://github.com/MarkPhamm/Leetcode/tree/master/1686-fix-product-name-format) |
 | [1712-unique-orders-and-customers-per-month](https://github.com/MarkPhamm/Leetcode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1718-warehouse-manager](https://github.com/MarkPhamm/Leetcode/tree/master/1718-warehouse-manager) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/MarkPhamm/Leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
