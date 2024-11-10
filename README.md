@@ -107,6 +107,7 @@
 | [1579-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/1579-active-users) |
 | [1625-group-sold-products-by-the-date](https://github.com/MarkPhamm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/MarkPhamm/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
+| [1641-countries-you-can-safely-invest-in](https://github.com/MarkPhamm/Leetcode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MarkPhamm/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/MarkPhamm/Leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
