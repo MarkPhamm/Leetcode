@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/MarkPhamm/Leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -182,6 +183,7 @@
 | [0125-valid-palindrome](https://github.com/MarkPhamm/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MarkPhamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -198,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/MarkPhamm/Leetcode/tree/master/0414-third-maximum-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
