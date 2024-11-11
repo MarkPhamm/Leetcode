@@ -120,6 +120,7 @@
 | [1712-unique-orders-and-customers-per-month](https://github.com/MarkPhamm/Leetcode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1718-warehouse-manager](https://github.com/MarkPhamm/Leetcode/tree/master/1718-warehouse-manager) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/MarkPhamm/Leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
+| [1749-sellers-with-no-sales](https://github.com/MarkPhamm/Leetcode/tree/master/1749-sellers-with-no-sales) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
