@@ -123,6 +123,7 @@
 | [1749-sellers-with-no-sales](https://github.com/MarkPhamm/Leetcode/tree/master/1749-sellers-with-no-sales) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [1898-leetflex-banned-accounts](https://github.com/MarkPhamm/Leetcode/tree/master/1898-leetflex-banned-accounts) |
+| [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 ## Math
