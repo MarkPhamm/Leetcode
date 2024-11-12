@@ -26,6 +26,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MarkPhamm/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
