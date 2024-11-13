@@ -157,6 +157,7 @@
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1089-remove-vowels-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1089-remove-vowels-from-a-string) |
+| [1542-consecutive-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/3379-score-of-a-string) |
