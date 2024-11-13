@@ -126,6 +126,7 @@
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/MarkPhamm/Leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1749-sellers-with-no-sales](https://github.com/MarkPhamm/Leetcode/tree/master/1749-sellers-with-no-sales) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
+| [1821-products-worth-over-invoices](https://github.com/MarkPhamm/Leetcode/tree/master/1821-products-worth-over-invoices) |
 | [1898-leetflex-banned-accounts](https://github.com/MarkPhamm/Leetcode/tree/master/1898-leetflex-banned-accounts) |
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
