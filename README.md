@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/MarkPhamm/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/MarkPhamm/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MarkPhamm/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
@@ -36,6 +37,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Database
 |  |
@@ -195,6 +197,7 @@
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
