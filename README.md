@@ -34,6 +34,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MarkPhamm/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MarkPhamm/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Prefix Sum
@@ -321,8 +322,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
