@@ -153,6 +153,7 @@
 | [1013-fibonacci-number](https://github.com/MarkPhamm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -221,6 +222,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/MarkPhamm/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -319,4 +321,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
