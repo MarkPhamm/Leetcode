@@ -27,6 +27,7 @@
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -207,6 +208,7 @@
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/MarkPhamm/Leetcode/tree/master/0605-can-place-flowers) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Linked List
 |  |
 | ------- |
