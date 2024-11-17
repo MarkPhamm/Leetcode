@@ -156,6 +156,7 @@
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/MarkPhamm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Brainteaser
