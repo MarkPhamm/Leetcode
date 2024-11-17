@@ -176,6 +176,7 @@
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1089-remove-vowels-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1089-remove-vowels-from-a-string) |
 | [1542-consecutive-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1542-consecutive-characters) |
+| [1797-goal-parser-interpretation](https://github.com/MarkPhamm/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/MarkPhamm/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/MarkPhamm/Leetcode/tree/master/2128-reverse-prefix-of-word) |
