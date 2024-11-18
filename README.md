@@ -294,6 +294,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MarkPhamm/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/MarkPhamm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
@@ -332,6 +333,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MarkPhamm/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
