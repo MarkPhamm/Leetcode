@@ -142,6 +142,7 @@
 | [1821-products-worth-over-invoices](https://github.com/MarkPhamm/Leetcode/tree/master/1821-products-worth-over-invoices) |
 | [1852-biggest-window-between-visits](https://github.com/MarkPhamm/Leetcode/tree/master/1852-biggest-window-between-visits) |
 | [1898-leetflex-banned-accounts](https://github.com/MarkPhamm/Leetcode/tree/master/1898-leetflex-banned-accounts) |
+| [1914-find-the-subtasks-that-did-not-execute](https://github.com/MarkPhamm/Leetcode/tree/master/1914-find-the-subtasks-that-did-not-execute) |
 | [2172-low-quality-problems](https://github.com/MarkPhamm/Leetcode/tree/master/2172-low-quality-problems) |
 | [2214-the-winner-university](https://github.com/MarkPhamm/Leetcode/tree/master/2214-the-winner-university) |
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
