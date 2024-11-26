@@ -41,6 +41,7 @@
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MarkPhamm/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -372,4 +374,5 @@
 |  |
 | ------- |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 <!---LeetCode Topics End-->
