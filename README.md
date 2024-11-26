@@ -143,6 +143,7 @@
 | [1718-warehouse-manager](https://github.com/MarkPhamm/Leetcode/tree/master/1718-warehouse-manager) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/MarkPhamm/Leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1749-sellers-with-no-sales](https://github.com/MarkPhamm/Leetcode/tree/master/1749-sellers-with-no-sales) |
+| [1759-find-the-missing-ids](https://github.com/MarkPhamm/Leetcode/tree/master/1759-find-the-missing-ids) |
 | [1795-hopper-company-queries-iii](https://github.com/MarkPhamm/Leetcode/tree/master/1795-hopper-company-queries-iii) |
 | [1821-products-worth-over-invoices](https://github.com/MarkPhamm/Leetcode/tree/master/1821-products-worth-over-invoices) |
 | [1852-biggest-window-between-visits](https://github.com/MarkPhamm/Leetcode/tree/master/1852-biggest-window-between-visits) |
