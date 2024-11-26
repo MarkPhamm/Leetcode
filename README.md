@@ -156,6 +156,7 @@
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
+| [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 | [3505-find-cities-in-each-state](https://github.com/MarkPhamm/Leetcode/tree/master/3505-find-cities-in-each-state) |
