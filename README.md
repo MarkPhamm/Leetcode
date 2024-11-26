@@ -158,6 +158,7 @@
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 | [3505-find-cities-in-each-state](https://github.com/MarkPhamm/Leetcode/tree/master/3505-find-cities-in-each-state) |
 | [3554-premier-league-table-ranking](https://github.com/MarkPhamm/Leetcode/tree/master/3554-premier-league-table-ranking) |
+| [3695-books-with-null-ratings](https://github.com/MarkPhamm/Leetcode/tree/master/3695-books-with-null-ratings) |
 ## Math
 |  |
 | ------- |
