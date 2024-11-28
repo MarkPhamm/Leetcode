@@ -32,6 +32,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -242,6 +243,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
@@ -287,6 +289,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/MarkPhamm/Leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
