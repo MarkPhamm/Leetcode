@@ -15,17 +15,6 @@ class Solution:
             else:
                 return -1
 
-
-
-
-
-
-
-
-
-
-
-
         # sort_nums = nums.copy()
         # sort_nums.sort(reverse=True)
         # print(nums)
