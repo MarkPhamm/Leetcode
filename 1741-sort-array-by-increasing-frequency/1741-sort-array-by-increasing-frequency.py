@@ -21,9 +21,7 @@ class Solution:
         ans = []
         for pair in ans_arr:
             for num in pair[1]:
-                for i in range(pair[0]):
-                    ans.append(num)
-        
+                ans.extend([num] * pair[0])
         return ans
         
         
