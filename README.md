@@ -191,6 +191,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/MarkPhamm/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -419,4 +420,8 @@
 | ------- |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/MarkPhamm/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
