@@ -37,6 +37,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MarkPhamm/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -182,6 +183,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MarkPhamm/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -241,6 +243,7 @@
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -292,6 +295,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 ## Stack
 |  |
