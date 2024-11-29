@@ -259,6 +259,7 @@
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/MarkPhamm/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
 ## Matrix
 |  |
 | ------- |
@@ -439,4 +441,8 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/MarkPhamm/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
