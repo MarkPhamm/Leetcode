@@ -167,6 +167,7 @@
 | [1991-league-statistics](https://github.com/MarkPhamm/Leetcode/tree/master/1991-league-statistics) |
 | [1998-suspicious-bank-accounts](https://github.com/MarkPhamm/Leetcode/tree/master/1998-suspicious-bank-accounts) |
 | [2014-orders-with-maximum-quantity-above-average](https://github.com/MarkPhamm/Leetcode/tree/master/2014-orders-with-maximum-quantity-above-average) |
+| [2030-group-employees-of-the-same-salary](https://github.com/MarkPhamm/Leetcode/tree/master/2030-group-employees-of-the-same-salary) |
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/MarkPhamm/Leetcode/tree/master/2092-users-that-actively-request-confirmation-messages) |
 | [2172-low-quality-problems](https://github.com/MarkPhamm/Leetcode/tree/master/2172-low-quality-problems) |
 | [2214-the-winner-university](https://github.com/MarkPhamm/Leetcode/tree/master/2214-the-winner-university) |
