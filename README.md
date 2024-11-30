@@ -147,6 +147,7 @@
 | [1565-evaluate-boolean-expression](https://github.com/MarkPhamm/Leetcode/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/MarkPhamm/Leetcode/tree/master/1578-apples-oranges) |
 | [1579-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/1579-active-users) |
+| [1623-sales-by-day-of-the-week](https://github.com/MarkPhamm/Leetcode/tree/master/1623-sales-by-day-of-the-week) |
 | [1625-group-sold-products-by-the-date](https://github.com/MarkPhamm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/MarkPhamm/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/MarkPhamm/Leetcode/tree/master/1641-countries-you-can-safely-invest-in) |
