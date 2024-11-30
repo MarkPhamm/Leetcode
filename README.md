@@ -177,6 +177,7 @@
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/MarkPhamm/Leetcode/tree/master/2643-concatenate-the-name-and-the-profession) |
+| [2829-find-latest-salaries](https://github.com/MarkPhamm/Leetcode/tree/master/2829-find-latest-salaries) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3286-class-performance](https://github.com/MarkPhamm/Leetcode/tree/master/3286-class-performance) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
