@@ -1,11 +1,8 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        arr.sort()
-        print(arr)
-        for i in range(len(arr)):
-            for j in range (i+1, len(arr)):
-                if arr[i]*2 == arr[j] or arr[i]/2 == arr[j]:
-                    return True
-        
+        seen = set()
+        for num in arr:
+            if num/2 in seen or num*2 in seen:
+                return True
+            seen.add(num)
         return False
-        
