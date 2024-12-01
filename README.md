@@ -175,6 +175,7 @@
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/MarkPhamm/Leetcode/tree/master/2092-users-that-actively-request-confirmation-messages) |
 | [2097-strong-friendship](https://github.com/MarkPhamm/Leetcode/tree/master/2097-strong-friendship) |
 | [2136-find-cutoff-score-for-each-school](https://github.com/MarkPhamm/Leetcode/tree/master/2136-find-cutoff-score-for-each-school) |
+| [2143-count-the-number-of-experiments](https://github.com/MarkPhamm/Leetcode/tree/master/2143-count-the-number-of-experiments) |
 | [2172-low-quality-problems](https://github.com/MarkPhamm/Leetcode/tree/master/2172-low-quality-problems) |
 | [2214-the-winner-university](https://github.com/MarkPhamm/Leetcode/tree/master/2214-the-winner-university) |
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
