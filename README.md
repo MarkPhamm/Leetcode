@@ -238,6 +238,7 @@
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/MarkPhamm/Leetcode/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1044-find-common-characters) |
 | [1089-remove-vowels-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1089-remove-vowels-from-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/MarkPhamm/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/MarkPhamm/Leetcode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
