@@ -180,6 +180,7 @@
 | [2143-count-the-number-of-experiments](https://github.com/MarkPhamm/Leetcode/tree/master/2143-count-the-number-of-experiments) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/MarkPhamm/Leetcode/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2172-low-quality-problems](https://github.com/MarkPhamm/Leetcode/tree/master/2172-low-quality-problems) |
+| [2185-accepted-candidates-from-the-interviews](https://github.com/MarkPhamm/Leetcode/tree/master/2185-accepted-candidates-from-the-interviews) |
 | [2208-account-balance](https://github.com/MarkPhamm/Leetcode/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/MarkPhamm/Leetcode/tree/master/2214-the-winner-university) |
 | [2252-the-airport-with-the-most-traffic](https://github.com/MarkPhamm/Leetcode/tree/master/2252-the-airport-with-the-most-traffic) |
