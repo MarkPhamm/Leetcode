@@ -182,6 +182,7 @@
 | [2172-low-quality-problems](https://github.com/MarkPhamm/Leetcode/tree/master/2172-low-quality-problems) |
 | [2208-account-balance](https://github.com/MarkPhamm/Leetcode/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/MarkPhamm/Leetcode/tree/master/2214-the-winner-university) |
+| [2252-the-airport-with-the-most-traffic](https://github.com/MarkPhamm/Leetcode/tree/master/2252-the-airport-with-the-most-traffic) |
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
