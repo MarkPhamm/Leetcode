@@ -1,10 +1,9 @@
 # Write your MySQL query statement below
-SELECT distinct user_id FROM 
-(
-SELECT 
-    user_id, 
-    DATEDIFF(lead(purchase_date) OVER(PARTITION BY user_id ORDER BY purchase_date), purchase_date) diff
-FROM Purchases 
-) a
-WHERE diff <= 7
-ORDER BY user_id
+select
+    distinct p2.user_id
+from 
+    Purchases p1 
+join 
+    Purchases p2 on p1.user_id = p2.user_id and p1.purchase_id != p2.purchase_id and abs(datediff(p1.purchase_date,p2.purchase_date)) <=7
+order by 
+    p2.user_id
