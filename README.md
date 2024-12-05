@@ -189,6 +189,7 @@
 | [2252-the-airport-with-the-most-traffic](https://github.com/MarkPhamm/Leetcode/tree/master/2252-the-airport-with-the-most-traffic) |
 | [2281-the-number-of-passengers-in-each-bus-i](https://github.com/MarkPhamm/Leetcode/tree/master/2281-the-number-of-passengers-in-each-bus-i) |
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
+| [2315-the-change-in-global-rankings](https://github.com/MarkPhamm/Leetcode/tree/master/2315-the-change-in-global-rankings) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
