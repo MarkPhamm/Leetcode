@@ -191,6 +191,7 @@
 | [2313-longest-winning-streak](https://github.com/MarkPhamm/Leetcode/tree/master/2313-longest-winning-streak) |
 | [2315-the-change-in-global-rankings](https://github.com/MarkPhamm/Leetcode/tree/master/2315-the-change-in-global-rankings) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
+| [2370-users-with-two-purchases-within-seven-days](https://github.com/MarkPhamm/Leetcode/tree/master/2370-users-with-two-purchases-within-seven-days) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
 | [2440-tasks-count-in-the-weekend](https://github.com/MarkPhamm/Leetcode/tree/master/2440-tasks-count-in-the-weekend) |
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
