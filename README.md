@@ -192,6 +192,7 @@
 | [2315-the-change-in-global-rankings](https://github.com/MarkPhamm/Leetcode/tree/master/2315-the-change-in-global-rankings) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/MarkPhamm/Leetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
+| [2440-tasks-count-in-the-weekend](https://github.com/MarkPhamm/Leetcode/tree/master/2440-tasks-count-in-the-weekend) |
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
