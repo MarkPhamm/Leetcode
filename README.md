@@ -44,6 +44,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MarkPhamm/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -266,6 +267,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/MarkPhamm/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MarkPhamm/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1542-consecutive-characters) |
+| [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/MarkPhamm/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MarkPhamm/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
@@ -407,6 +409,7 @@
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MarkPhamm/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/MarkPhamm/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3447-clear-digits) |
 ## String Matching
