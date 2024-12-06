@@ -259,6 +259,7 @@
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MarkPhamm/Leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1044-find-common-characters) |
 | [1089-remove-vowels-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1089-remove-vowels-from-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MarkPhamm/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -287,6 +288,7 @@
 | [0067-add-binary](https://github.com/MarkPhamm/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -345,6 +347,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -402,6 +405,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/MarkPhamm/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MarkPhamm/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/MarkPhamm/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3447-clear-digits) |
