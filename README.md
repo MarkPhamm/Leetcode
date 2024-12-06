@@ -53,6 +53,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MarkPhamm/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MarkPhamm/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -323,6 +324,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -377,6 +379,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -423,6 +426,7 @@
 | [0633-sum-of-square-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Memoization
 |  |
@@ -480,6 +484,7 @@
 | [0605-can-place-flowers](https://github.com/MarkPhamm/Leetcode/tree/master/0605-can-place-flowers) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/MarkPhamm/Leetcode/tree/master/1448-maximum-69-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
