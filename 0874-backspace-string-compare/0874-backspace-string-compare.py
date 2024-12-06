@@ -17,5 +17,4 @@ class Solution:
             else:
                 stack_t.append(char)
         
-        print(stack_s, stack_t)
         return stack_s == stack_t
