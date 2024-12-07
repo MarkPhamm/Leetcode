@@ -38,6 +38,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/MarkPhamm/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1391-counting-elements](https://github.com/MarkPhamm/Leetcode/tree/master/1391-counting-elements) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -331,6 +332,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/MarkPhamm/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1391-counting-elements](https://github.com/MarkPhamm/Leetcode/tree/master/1391-counting-elements) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/1635-number-of-good-pairs) |
