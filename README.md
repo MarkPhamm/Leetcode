@@ -46,6 +46,7 @@
 | [1635-number-of-good-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -444,6 +445,7 @@
 | [0633-sum-of-square-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Memoization
