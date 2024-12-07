@@ -62,6 +62,7 @@
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MarkPhamm/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Prefix Sum
 |  |
@@ -337,6 +338,7 @@
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -546,4 +549,8 @@
 | [0225-implement-stack-using-queues](https://github.com/MarkPhamm/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MarkPhamm/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
