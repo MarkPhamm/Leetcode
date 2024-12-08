@@ -209,6 +209,7 @@
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
+| [2534-employees-with-deductions](https://github.com/MarkPhamm/Leetcode/tree/master/2534-employees-with-deductions) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/MarkPhamm/Leetcode/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2829-find-latest-salaries](https://github.com/MarkPhamm/Leetcode/tree/master/2829-find-latest-salaries) |
