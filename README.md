@@ -222,6 +222,7 @@
 | [3255-pizza-toppings-cost-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3255-pizza-toppings-cost-analysis) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/MarkPhamm/Leetcode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3258-classifying-triangles-by-lengths](https://github.com/MarkPhamm/Leetcode/tree/master/3258-classifying-triangles-by-lengths) |
+| [3259-binary-tree-nodes](https://github.com/MarkPhamm/Leetcode/tree/master/3259-binary-tree-nodes) |
 | [3284-find-expensive-cities](https://github.com/MarkPhamm/Leetcode/tree/master/3284-find-expensive-cities) |
 | [3286-class-performance](https://github.com/MarkPhamm/Leetcode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/MarkPhamm/Leetcode/tree/master/3287-loan-types) |
