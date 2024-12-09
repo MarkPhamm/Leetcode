@@ -210,6 +210,7 @@
 | [2451-product-sales-analysis-iv](https://github.com/MarkPhamm/Leetcode/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
+| [2515-calculate-the-influence-of-each-salesperson](https://github.com/MarkPhamm/Leetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
 | [2534-employees-with-deductions](https://github.com/MarkPhamm/Leetcode/tree/master/2534-employees-with-deductions) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
