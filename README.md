@@ -220,6 +220,7 @@
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/MarkPhamm/Leetcode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2840-immediate-food-delivery-iii](https://github.com/MarkPhamm/Leetcode/tree/master/2840-immediate-food-delivery-iii) |
 | [2841-bikes-last-time-used](https://github.com/MarkPhamm/Leetcode/tree/master/2841-bikes-last-time-used) |
+| [2842-find-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/2842-find-active-users) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3155-highest-salaries-difference](https://github.com/MarkPhamm/Leetcode/tree/master/3155-highest-salaries-difference) |
 | [3255-pizza-toppings-cost-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3255-pizza-toppings-cost-analysis) |
