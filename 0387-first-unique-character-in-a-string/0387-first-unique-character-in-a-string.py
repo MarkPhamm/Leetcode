@@ -1,10 +1,16 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         counter = {}
-        for char in s:
-            counter[char] = counter.get(char,0)+1
-        
+        queue = []
+
+
         for i in range(len(s)):
-            if counter[s[i]] == 1:
-                return i
-        return -1
+            # Update character count
+            counter[s[i]] = counter.get(s[i], 0) + 1
+            # Enqueue the index
+            queue.append(i)
+            # Remove invalid elements from the queue
+            while queue and counter[s[queue[0]]] > 1:
+                queue.pop(0)
+
+        return queue[0] if queue else -1
