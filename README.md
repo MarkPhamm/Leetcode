@@ -273,6 +273,7 @@
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MarkPhamm/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MarkPhamm/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -337,6 +338,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1044-find-common-characters) |
@@ -420,6 +422,7 @@
 | [0169-majority-element](https://github.com/MarkPhamm/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MarkPhamm/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/MarkPhamm/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -580,6 +583,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MarkPhamm/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MarkPhamm/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0387-first-unique-character-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/MarkPhamm/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Enumeration
 |  |
