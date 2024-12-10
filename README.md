@@ -212,6 +212,7 @@
 | [2484-compute-the-rank-as-a-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/MarkPhamm/Leetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
+| [2523-change-null-values-in-a-table-to-the-previous-value](https://github.com/MarkPhamm/Leetcode/tree/master/2523-change-null-values-in-a-table-to-the-previous-value) |
 | [2534-employees-with-deductions](https://github.com/MarkPhamm/Leetcode/tree/master/2534-employees-with-deductions) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/MarkPhamm/Leetcode/tree/master/2643-concatenate-the-name-and-the-profession) |
