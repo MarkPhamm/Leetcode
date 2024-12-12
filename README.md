@@ -224,6 +224,7 @@
 | [2841-bikes-last-time-used](https://github.com/MarkPhamm/Leetcode/tree/master/2841-bikes-last-time-used) |
 | [2842-find-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/2842-find-active-users) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
+| [3002-flight-occupancy-and-waitlist-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
 | [3155-highest-salaries-difference](https://github.com/MarkPhamm/Leetcode/tree/master/3155-highest-salaries-difference) |
 | [3156-rolling-average-steps](https://github.com/MarkPhamm/Leetcode/tree/master/3156-rolling-average-steps) |
 | [3255-pizza-toppings-cost-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3255-pizza-toppings-cost-analysis) |
