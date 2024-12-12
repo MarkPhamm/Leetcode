@@ -227,6 +227,7 @@
 | [3002-flight-occupancy-and-waitlist-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
 | [3155-highest-salaries-difference](https://github.com/MarkPhamm/Leetcode/tree/master/3155-highest-salaries-difference) |
 | [3156-rolling-average-steps](https://github.com/MarkPhamm/Leetcode/tree/master/3156-rolling-average-steps) |
+| [3160-calculate-orders-within-each-interval](https://github.com/MarkPhamm/Leetcode/tree/master/3160-calculate-orders-within-each-interval) |
 | [3255-pizza-toppings-cost-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3255-pizza-toppings-cost-analysis) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/MarkPhamm/Leetcode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3258-classifying-triangles-by-lengths](https://github.com/MarkPhamm/Leetcode/tree/master/3258-classifying-triangles-by-lengths) |
