@@ -58,6 +58,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/MarkPhamm/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MarkPhamm/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -83,6 +84,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MarkPhamm/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MarkPhamm/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/MarkPhamm/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3427-special-array-ii) |
 ## Database
 |  |
