@@ -82,6 +82,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MarkPhamm/Leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MarkPhamm/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MarkPhamm/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/MarkPhamm/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -297,6 +298,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MarkPhamm/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/MarkPhamm/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MarkPhamm/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/MarkPhamm/Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
