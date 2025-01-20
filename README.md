@@ -57,6 +57,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/MarkPhamm/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/MarkPhamm/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -313,6 +314,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/MarkPhamm/Leetcode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -479,6 +481,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/MarkPhamm/Leetcode/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
 | ------- |
