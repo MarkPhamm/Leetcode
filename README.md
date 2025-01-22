@@ -256,6 +256,7 @@
 | [3512-bitwise-user-permissions-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3554-premier-league-table-ranking](https://github.com/MarkPhamm/Leetcode/tree/master/3554-premier-league-table-ranking) |
 | [3695-books-with-null-ratings](https://github.com/MarkPhamm/Leetcode/tree/master/3695-books-with-null-ratings) |
+| [3757-find-products-with-three-consecutive-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3757-find-products-with-three-consecutive-digits) |
 ## Math
 |  |
 | ------- |
