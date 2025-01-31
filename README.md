@@ -53,6 +53,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/MarkPhamm/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
+| [2102-find-the-middle-index-in-array](https://github.com/MarkPhamm/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -90,6 +91,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/MarkPhamm/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MarkPhamm/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/MarkPhamm/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/MarkPhamm/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2571-find-the-pivot-integer](https://github.com/MarkPhamm/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
