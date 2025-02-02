@@ -50,6 +50,7 @@
 | [1720-crawler-log-folder](https://github.com/MarkPhamm/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/MarkPhamm/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MarkPhamm/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/MarkPhamm/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/1944-truncate-sentence) |
