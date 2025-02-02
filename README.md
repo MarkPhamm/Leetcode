@@ -329,6 +329,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/MarkPhamm/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/MarkPhamm/Leetcode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
