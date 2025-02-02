@@ -3,13 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
+        # TC = O(M+N)
+        # SC = O(1)
 
         # a: [1,2,3,0,0,0]
         #               i    
         # b: [2,5,6]
         #         j
-
-
 
         # []
         # [1,2,2,3,5,6]
