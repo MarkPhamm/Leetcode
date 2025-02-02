@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/MarkPhamm/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/MarkPhamm/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MarkPhamm/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MarkPhamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,6 +410,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/MarkPhamm/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MarkPhamm/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MarkPhamm/Leetcode/tree/master/0143-reorder-list) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MarkPhamm/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MarkPhamm/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
