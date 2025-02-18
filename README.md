@@ -34,6 +34,7 @@
 | [0735-asteroid-collision](https://github.com/MarkPhamm/Leetcode/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MarkPhamm/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1044-find-common-characters) |
 | [1098-largest-unique-number](https://github.com/MarkPhamm/Leetcode/tree/master/1098-largest-unique-number) |
@@ -370,6 +371,7 @@
 | [0682-baseball-game](https://github.com/MarkPhamm/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MarkPhamm/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/MarkPhamm/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MarkPhamm/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -477,6 +479,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/MarkPhamm/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MarkPhamm/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/MarkPhamm/Leetcode/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -677,6 +680,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/MarkPhamm/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2868-continuous-subarrays](https://github.com/MarkPhamm/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
