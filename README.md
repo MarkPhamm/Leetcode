@@ -262,6 +262,7 @@
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/MarkPhamm/Leetcode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3283-find-third-transaction](https://github.com/MarkPhamm/Leetcode/tree/master/3283-find-third-transaction) |
 | [3284-find-expensive-cities](https://github.com/MarkPhamm/Leetcode/tree/master/3284-find-expensive-cities) |
+| [3285-manager-of-the-largest-department](https://github.com/MarkPhamm/Leetcode/tree/master/3285-manager-of-the-largest-department) |
 | [3286-class-performance](https://github.com/MarkPhamm/Leetcode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/MarkPhamm/Leetcode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/MarkPhamm/Leetcode/tree/master/3300-friday-purchases-i) |
