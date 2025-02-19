@@ -270,6 +270,7 @@
 | [3300-friday-purchases-i](https://github.com/MarkPhamm/Leetcode/tree/master/3300-friday-purchases-i) |
 | [3302-viewers-turned-streamers](https://github.com/MarkPhamm/Leetcode/tree/master/3302-viewers-turned-streamers) |
 | [3339-top-percentile-fraud](https://github.com/MarkPhamm/Leetcode/tree/master/3339-top-percentile-fraud) |
+| [3340-snaps-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3340-snaps-analysis) |
 | [3365-find-all-unique-email-domains](https://github.com/MarkPhamm/Leetcode/tree/master/3365-find-all-unique-email-domains) |
 | [3432-find-longest-calls](https://github.com/MarkPhamm/Leetcode/tree/master/3432-find-longest-calls) |
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
