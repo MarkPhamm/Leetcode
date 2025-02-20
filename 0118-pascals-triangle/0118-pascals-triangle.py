@@ -10,7 +10,10 @@ class Solution:
         # = F(0,0) + F(0,1) + 2(F(0,1) + F(0,2)) + F(0,3)
         # ^n Exponential 
         # TLO: TC: (O(x^n)) without memorization, O(n^2) with memorization
-        # SC: O(N)
+        # SC: O(N^2) = O(N) Recursion + O(N^2) memo
+
+        # F(n) --> F(n-1) --> F(n-2) --> ...
+        # F(0) --> F(1) --> F(n)
 
         # cache memorization, every (i,j) we calculate only once -> only need to calculate all i,j pair
         memo = {}
