@@ -1,14 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        
-        def backtrack(start, curr):
-            ans.append(curr[:])
-            
-            for i in range(start, len(nums)):
-                curr.append(nums[i])
-                backtrack(i + 1, curr)
-                curr.pop()
+        curr = []
+        nums.sort()
 
-        backtrack(0, [])
+        def backtrack(curr):
+            ans.append(curr[:])
+
+            for num in nums:
+                if num not in curr:
+                    if curr and curr[-1] < num:
+                        return
+                    curr.append(num)
+                    backtrack(curr)
+                    curr.pop()
+        
+        backtrack(curr)
         return ans
