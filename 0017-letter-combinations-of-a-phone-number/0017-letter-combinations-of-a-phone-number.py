@@ -4,7 +4,7 @@ class Solution:
             return []
 
         ans = []
-        current_solution = []
+        curr = []
 
         digit_mapping = {
             '2': 'abc',
@@ -18,25 +18,15 @@ class Solution:
         }
 
 
-        def chose(i):
-            # chose letter i for the array of char
-
-            # Base case: stop when you are in the last character
-            if i == len(digits):
-                ans.append("".join(current_solution))
-                return
+        def backtrack(index):
+            if len(curr) == len(digits):
+                ans.append("".join(curr.copy()))
+                return 
             
-            # recursive
-            for next_char in digit_mapping[digits[i]]:
-                # current sol = ["a"], next number = 3
-                # --> ["a" , "d"], ["a" , "e"], ["a" , "f"]
-                current_solution.append(next_char)
-
-                # check the next charter 
-                chose(i+1)
-        
-                current_solution.pop()
-        
-        chose(0)
-        return ans    
-        
+            for char in digit_mapping[digits[index]]:
+                curr.append(char)
+                backtrack(index+1)
+                curr.pop()
+            
+        backtrack(0)
+        return ans
