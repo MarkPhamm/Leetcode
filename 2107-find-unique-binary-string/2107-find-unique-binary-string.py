@@ -1,20 +1,21 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
-        perm = []
-        curr = []
+        num_set = set(nums)
+        n = len(nums[0])
 
         def backtrack(curr):
             if len(curr) == len(nums[0]):
-                perm.append("".join(curr[:]))
+                candidate = "".join(curr[:])
+                if candidate not in num_set:
+                    return candidate
                 return
             
-            for i in range(2):
-                curr.append(str(i))
-                backtrack(curr)
+            for i in "01":
+                curr.append(i)
+                candidate = backtrack(curr)
+                if candidate:
+                    return candidate
                 curr.pop()
         
-        backtrack(curr)
-        for p in perm:
-            if p not in nums:
-                return p
+        return backtrack([])
         
