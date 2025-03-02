@@ -1,11 +1,16 @@
-# Write your MySQL query statement below
-with cte as
-(
-select d.name as Department, e.name as Employee, salary as Salary, 
-dense_rank() over(partition by d.name order by salary desc) ranking
-from Employee e
-join Department d
-on e.departmentID = d.id
+WITH cte AS (
+    SELECT 
+        d.name AS Department, 
+        e.name AS Employee, 
+        e.salary AS Salary, 
+        DENSE_RANK() OVER(PARTITION BY d.name ORDER BY e.salary DESC) AS ranking
+    FROM Employee e
+    JOIN Department d ON e.departmentID = d.id
 )
-select Department, Employee, Salary from cte where ranking <= 3
-order by department ,3 desc
+SELECT 
+    Department, 
+    Employee, 
+    Salary 
+FROM cte 
+WHERE ranking <= 3
+ORDER BY Department, Salary DESC;
