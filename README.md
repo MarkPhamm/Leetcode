@@ -76,6 +76,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2195-time-needed-to-buy-tickets](https://github.com/MarkPhamm/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MarkPhamm/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/MarkPhamm/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -523,6 +524,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MarkPhamm/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MarkPhamm/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -600,6 +602,7 @@
 | [1646-kth-missing-positive-number](https://github.com/MarkPhamm/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/MarkPhamm/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MarkPhamm/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/MarkPhamm/Leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
