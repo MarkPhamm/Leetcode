@@ -43,6 +43,7 @@
 | [1066-fixed-point](https://github.com/MarkPhamm/Leetcode/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/MarkPhamm/Leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1098-largest-unique-number](https://github.com/MarkPhamm/Leetcode/tree/master/1098-largest-unique-number) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MarkPhamm/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1345-perform-string-shifts](https://github.com/MarkPhamm/Leetcode/tree/master/1345-perform-string-shifts) |
@@ -589,6 +590,7 @@
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
 | [1066-fixed-point](https://github.com/MarkPhamm/Leetcode/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/MarkPhamm/Leetcode/tree/master/1083-two-sum-less-than-k) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
