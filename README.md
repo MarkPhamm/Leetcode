@@ -316,6 +316,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/MarkPhamm/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MarkPhamm/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/MarkPhamm/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2571-find-the-pivot-integer](https://github.com/MarkPhamm/Leetcode/tree/master/2571-find-the-pivot-integer) |
