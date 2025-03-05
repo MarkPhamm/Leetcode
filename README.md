@@ -184,6 +184,7 @@
 | [1269-market-analysis-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1269-market-analysis-ii) |
 | [1291-immediate-food-delivery-i](https://github.com/MarkPhamm/Leetcode/tree/master/1291-immediate-food-delivery-i) |
 | [1318-tournament-winners](https://github.com/MarkPhamm/Leetcode/tree/master/1318-tournament-winners) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/MarkPhamm/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1328-monthly-transactions-ii](https://github.com/MarkPhamm/Leetcode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/MarkPhamm/Leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1357-report-contiguous-dates](https://github.com/MarkPhamm/Leetcode/tree/master/1357-report-contiguous-dates) |
