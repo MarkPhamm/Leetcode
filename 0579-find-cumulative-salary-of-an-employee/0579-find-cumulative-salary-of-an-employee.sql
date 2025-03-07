@@ -9,8 +9,8 @@ SELECT
     id,
     month,
     salary + 
-    if(previous_month = month - 1, previous_salary, 0) + 
-    if(previous_previous_month = month -2, previous_previous_salary, 0)
+    case when previous_month = month - 1 THEN previous_salary else 0 end + 
+    case when previous_previous_month = month -2 THEN previous_previous_salary else 0 end
     as Salary
 FROM
 (
