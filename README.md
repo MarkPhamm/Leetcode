@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/MarkPhamm/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MarkPhamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MarkPhamm/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/0228-summary-ranges) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
@@ -113,6 +114,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MarkPhamm/Leetcode/tree/master/0724-find-pivot-index) |
@@ -611,6 +613,7 @@
 | [0069-sqrtx](https://github.com/MarkPhamm/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MarkPhamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
 | [0278-first-bad-version](https://github.com/MarkPhamm/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -765,6 +768,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/MarkPhamm/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2868-continuous-subarrays](https://github.com/MarkPhamm/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
