@@ -3,13 +3,15 @@ class Solution:
         ans = math.inf
         white = 0
 
-        for r, char in enumerate(blocks):
-            if char == "W":
+        for i in range(k):
+            if blocks[i] == "W":
                 white +=1
-            if r < k - 1:
-                continue
-            l = r - k + 1
-            if l > 0 and blocks[l-1] == "W":
+        ans = white
+
+        for r in range(k, len(blocks)):
+            if blocks[r] == "W":
+                white +=1
+            if blocks[r-k] == "W":
                 white -=1
             ans = min(white, ans)
         return ans
