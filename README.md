@@ -391,6 +391,7 @@
 | [2401-count-asterisks](https://github.com/MarkPhamm/Leetcode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MarkPhamm/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MarkPhamm/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MarkPhamm/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -773,6 +774,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MarkPhamm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/MarkPhamm/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MarkPhamm/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/MarkPhamm/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MarkPhamm/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
