@@ -306,6 +306,7 @@
 | [3554-premier-league-table-ranking](https://github.com/MarkPhamm/Leetcode/tree/master/3554-premier-league-table-ranking) |
 | [3589-find-candidates-for-data-scientist-position-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3624-find-top-performing-driver](https://github.com/MarkPhamm/Leetcode/tree/master/3624-find-top-performing-driver) |
+| [3642-premier-league-table-ranking-iii](https://github.com/MarkPhamm/Leetcode/tree/master/3642-premier-league-table-ranking-iii) |
 | [3650-find-cities-in-each-state-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3650-find-cities-in-each-state-ii) |
 | [3695-books-with-null-ratings](https://github.com/MarkPhamm/Leetcode/tree/master/3695-books-with-null-ratings) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3757-find-products-with-three-consecutive-digits) |
