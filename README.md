@@ -112,6 +112,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MarkPhamm/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Prefix Sum
 |  |
@@ -481,6 +482,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MarkPhamm/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MarkPhamm/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/MarkPhamm/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -786,6 +789,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MarkPhamm/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3463-alternating-groups-i](https://github.com/MarkPhamm/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Ordered Set
 |  |
 | ------- |
