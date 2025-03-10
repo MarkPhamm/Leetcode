@@ -107,6 +107,7 @@
 | [3429-special-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MarkPhamm/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/MarkPhamm/Leetcode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MarkPhamm/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -780,6 +781,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MarkPhamm/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3463-alternating-groups-i](https://github.com/MarkPhamm/Leetcode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Ordered Set
 |  |
 | ------- |
