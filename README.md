@@ -61,6 +61,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MarkPhamm/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MarkPhamm/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MarkPhamm/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -653,6 +654,7 @@
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/MarkPhamm/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MarkPhamm/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -726,6 +728,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MarkPhamm/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MarkPhamm/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
