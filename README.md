@@ -313,6 +313,7 @@
 | [3488-find-top-scoring-students](https://github.com/MarkPhamm/Leetcode/tree/master/3488-find-top-scoring-students) |
 | [3505-find-cities-in-each-state](https://github.com/MarkPhamm/Leetcode/tree/master/3505-find-cities-in-each-state) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3512-bitwise-user-permissions-analysis) |
+| [3539-customer-purchasing-behavior-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3539-customer-purchasing-behavior-analysis) |
 | [3554-premier-league-table-ranking](https://github.com/MarkPhamm/Leetcode/tree/master/3554-premier-league-table-ranking) |
 | [3589-find-candidates-for-data-scientist-position-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3624-find-top-performing-driver](https://github.com/MarkPhamm/Leetcode/tree/master/3624-find-top-performing-driver) |
