@@ -89,6 +89,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/MarkPhamm/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/MarkPhamm/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MarkPhamm/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -402,6 +403,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MarkPhamm/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MarkPhamm/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MarkPhamm/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/MarkPhamm/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MarkPhamm/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -490,6 +492,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MarkPhamm/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/MarkPhamm/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MarkPhamm/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MarkPhamm/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2634-minimum-common-value](https://github.com/MarkPhamm/Leetcode/tree/master/2634-minimum-common-value) |
@@ -848,4 +851,12 @@
 | [0216-combination-sum-iii](https://github.com/MarkPhamm/Leetcode/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/MarkPhamm/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MarkPhamm/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MarkPhamm/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MarkPhamm/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
