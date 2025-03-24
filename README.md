@@ -58,6 +58,7 @@
 | [1149-intersection-of-three-sorted-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MarkPhamm/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/MarkPhamm/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1345-perform-string-shifts](https://github.com/MarkPhamm/Leetcode/tree/master/1345-perform-string-shifts) |
 | [1391-counting-elements](https://github.com/MarkPhamm/Leetcode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -585,6 +586,7 @@
 | [1083-two-sum-less-than-k](https://github.com/MarkPhamm/Leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1098-largest-unique-number](https://github.com/MarkPhamm/Leetcode/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/MarkPhamm/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MarkPhamm/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
