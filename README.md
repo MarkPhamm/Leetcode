@@ -110,6 +110,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MarkPhamm/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MarkPhamm/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2868-continuous-subarrays](https://github.com/MarkPhamm/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MarkPhamm/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MarkPhamm/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -511,6 +512,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MarkPhamm/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MarkPhamm/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MarkPhamm/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MarkPhamm/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/MarkPhamm/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3359-linked-list-frequency](https://github.com/MarkPhamm/Leetcode/tree/master/3359-linked-list-frequency) |
@@ -601,6 +603,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MarkPhamm/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MarkPhamm/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MarkPhamm/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/MarkPhamm/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MarkPhamm/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MarkPhamm/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MarkPhamm/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
