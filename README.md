@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/0228-summary-ranges) |
+| [0252-meeting-rooms](https://github.com/MarkPhamm/Leetcode/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/MarkPhamm/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -590,6 +591,7 @@
 | [0169-majority-element](https://github.com/MarkPhamm/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/MarkPhamm/Leetcode/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
