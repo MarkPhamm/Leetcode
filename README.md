@@ -314,6 +314,7 @@
 | [3285-manager-of-the-largest-department](https://github.com/MarkPhamm/Leetcode/tree/master/3285-manager-of-the-largest-department) |
 | [3286-class-performance](https://github.com/MarkPhamm/Leetcode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/MarkPhamm/Leetcode/tree/master/3287-loan-types) |
+| [3288-top-three-wineries](https://github.com/MarkPhamm/Leetcode/tree/master/3288-top-three-wineries) |
 | [3300-friday-purchases-i](https://github.com/MarkPhamm/Leetcode/tree/master/3300-friday-purchases-i) |
 | [3302-viewers-turned-streamers](https://github.com/MarkPhamm/Leetcode/tree/master/3302-viewers-turned-streamers) |
 | [3339-top-percentile-fraud](https://github.com/MarkPhamm/Leetcode/tree/master/3339-top-percentile-fraud) |
