@@ -336,6 +336,7 @@
 | [3642-premier-league-table-ranking-iii](https://github.com/MarkPhamm/Leetcode/tree/master/3642-premier-league-table-ranking-iii) |
 | [3650-find-cities-in-each-state-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3650-find-cities-in-each-state-ii) |
 | [3695-books-with-null-ratings](https://github.com/MarkPhamm/Leetcode/tree/master/3695-books-with-null-ratings) |
+| [3719-team-dominance-by-pass-success](https://github.com/MarkPhamm/Leetcode/tree/master/3719-team-dominance-by-pass-success) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3757-find-products-with-three-consecutive-digits) |
 ## Math
 |  |
