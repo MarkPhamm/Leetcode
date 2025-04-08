@@ -135,6 +135,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/MarkPhamm/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MarkPhamm/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -541,6 +542,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MarkPhamm/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/MarkPhamm/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MarkPhamm/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
