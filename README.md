@@ -35,6 +35,7 @@
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/MarkPhamm/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MarkPhamm/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MarkPhamm/Leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -500,6 +502,7 @@
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/MarkPhamm/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/MarkPhamm/Leetcode/tree/master/0290-word-pattern) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
