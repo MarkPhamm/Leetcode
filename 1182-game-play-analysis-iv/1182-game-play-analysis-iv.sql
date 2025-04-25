@@ -1,15 +1,21 @@
-# Write your MySQL query statement below
-with cte as
-(
-select player_id, datediff( 
-lead(event_date) over(partition by player_id order by event_date),event_date) diff,
-rank() over(partition by player_id order by event_date) ranking
-from Activity
+-- Write your MySQL query statement below
+WITH cte AS (
+    SELECT
+        player_id,
+        DATEDIFF(
+            LEAD(event_date) OVER (PARTITION BY player_id ORDER BY event_date),
+            event_date
+        ) AS diff,
+        RANK() OVER (PARTITION BY player_id ORDER BY event_date) AS ranking
+    FROM Activity
 )
-select round(count(distinct(player_id))
-/
-(
-  SELECT count(distinct(player_id)) from Activity
-),2) as fraction 
-from cte
-where diff = 1 and ranking = 1
+
+SELECT
+    ROUND(
+        COUNT(DISTINCT player_id) /
+        (SELECT COUNT(DISTINCT player_id) FROM Activity),
+        2
+    ) AS fraction
+FROM cte
+WHERE diff = 1
+  AND ranking = 1;
