@@ -141,6 +141,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MarkPhamm/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/MarkPhamm/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MarkPhamm/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MarkPhamm/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
 |  |
 | ------- |
