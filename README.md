@@ -347,6 +347,7 @@
 | [3719-team-dominance-by-pass-success](https://github.com/MarkPhamm/Leetcode/tree/master/3719-team-dominance-by-pass-success) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3757-find-products-with-three-consecutive-digits) |
 | [3865-find-product-recommendation-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/3865-find-product-recommendation-pairs) |
+| [3898-seasonal-sales-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3898-seasonal-sales-analysis) |
 ## Math
 |  |
 | ------- |
