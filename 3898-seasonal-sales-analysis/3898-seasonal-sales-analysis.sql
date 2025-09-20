@@ -18,7 +18,13 @@ with calculating_seasonal_stats as (
 calculating_ranking as (
     select 
         *,
-        rank() over(partition by season order by total_quantity desc, total_revenue desc) ranking 
+        rank() 
+            over(
+                partition by season 
+                order by 
+                    total_quantity desc, 
+                    total_revenue desc
+                ) ranking 
     from calculating_seasonal_stats
     order by 1, 3 desc 
 )
