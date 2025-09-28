@@ -347,6 +347,7 @@
 | [3719-team-dominance-by-pass-success](https://github.com/MarkPhamm/Leetcode/tree/master/3719-team-dominance-by-pass-success) |
 | [3757-find-products-with-three-consecutive-digits](https://github.com/MarkPhamm/Leetcode/tree/master/3757-find-products-with-three-consecutive-digits) |
 | [3782-find-valid-emails](https://github.com/MarkPhamm/Leetcode/tree/master/3782-find-valid-emails) |
+| [3792-find-invalid-ip-addresses](https://github.com/MarkPhamm/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3865-find-product-recommendation-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/3865-find-product-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/MarkPhamm/Leetcode/tree/master/3910-find-books-with-no-available-copies) |
