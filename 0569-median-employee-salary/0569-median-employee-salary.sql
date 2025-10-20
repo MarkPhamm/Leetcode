@@ -1,12 +1,21 @@
 # Write your MySQL query statement below
 
-SELECT distinct id, company, salary FROM 
-(
-SELECT  
-    *,
-    ROW_NUMBER() OVER(PARTITION BY company ORDER BY salary, id) ranking,
-    (COUNT(*) OVER(PARTITION BY company)+1)/2 as middle  
-FROM Employee
-) a
-WHERE middle = ranking
-OR ABS(middle-ranking) = 0.5
+with cte as (
+    select
+        id, 
+        company,
+        salary,
+        row_number() over (partition by company order by salary) as rnk,
+        (count(*) over (partition by company)+1)/2 as middle
+    from Employee
+    order by company, rnk
+)
+select
+    distinct 
+    id,
+    company,
+    salary
+    from cte 
+where 
+    rnk=middle or
+    abs(middle-rnk)=0.5
