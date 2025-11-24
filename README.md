@@ -231,6 +231,7 @@
 | [1339-team-scores-in-football-tournament](https://github.com/MarkPhamm/Leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1357-report-contiguous-dates](https://github.com/MarkPhamm/Leetcode/tree/master/1357-report-contiguous-dates) |
 | [1377-number-of-comments-per-post](https://github.com/MarkPhamm/Leetcode/tree/master/1377-number-of-comments-per-post) |
+| [1384-total-sales-amount-by-year](https://github.com/MarkPhamm/Leetcode/tree/master/1384-total-sales-amount-by-year) |
 | [1399-page-recommendations](https://github.com/MarkPhamm/Leetcode/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/MarkPhamm/Leetcode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/MarkPhamm/Leetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
