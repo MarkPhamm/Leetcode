@@ -179,6 +179,7 @@
 | [0196-delete-duplicate-emails](https://github.com/MarkPhamm/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/MarkPhamm/Leetcode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/MarkPhamm/Leetcode/tree/master/0262-trips-and-users) |
+| [0512-game-play-analysis-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0512-game-play-analysis-ii) |
 | [0569-median-employee-salary](https://github.com/MarkPhamm/Leetcode/tree/master/0569-median-employee-salary) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0574-winning-candidate](https://github.com/MarkPhamm/Leetcode/tree/master/0574-winning-candidate) |
