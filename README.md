@@ -333,6 +333,7 @@
 | [3340-snaps-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3340-snaps-analysis) |
 | [3357-employees-project-allocation](https://github.com/MarkPhamm/Leetcode/tree/master/3357-employees-project-allocation) |
 | [3365-find-all-unique-email-domains](https://github.com/MarkPhamm/Leetcode/tree/master/3365-find-all-unique-email-domains) |
+| [3368-first-letter-capitalization](https://github.com/MarkPhamm/Leetcode/tree/master/3368-first-letter-capitalization) |
 | [3369-calculate-trapping-rain-water](https://github.com/MarkPhamm/Leetcode/tree/master/3369-calculate-trapping-rain-water) |
 | [3432-find-longest-calls](https://github.com/MarkPhamm/Leetcode/tree/master/3432-find-longest-calls) |
 | [3440-server-utilization-time](https://github.com/MarkPhamm/Leetcode/tree/master/3440-server-utilization-time) |
