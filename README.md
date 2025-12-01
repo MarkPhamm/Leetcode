@@ -350,6 +350,7 @@
 | [3539-customer-purchasing-behavior-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3539-customer-purchasing-behavior-analysis) |
 | [3549-ceo-subordinate-hierarchy](https://github.com/MarkPhamm/Leetcode/tree/master/3549-ceo-subordinate-hierarchy) |
 | [3554-premier-league-table-ranking](https://github.com/MarkPhamm/Leetcode/tree/master/3554-premier-league-table-ranking) |
+| [3554-find-category-recommendation-pairs](https://github.com/MarkPhamm/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 | [3574-find-overlapping-shifts](https://github.com/MarkPhamm/Leetcode/tree/master/3574-find-overlapping-shifts) |
 | [3589-find-candidates-for-data-scientist-position-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3611-find-overbooked-employees](https://github.com/MarkPhamm/Leetcode/tree/master/3611-find-overbooked-employees) |
