@@ -343,6 +343,7 @@
 | [3457-invalid-tweets-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3457-invalid-tweets-ii) |
 | [3473-calculate-parking-fees-and-duration](https://github.com/MarkPhamm/Leetcode/tree/master/3473-calculate-parking-fees-and-duration) |
 | [3481-second-day-verification](https://github.com/MarkPhamm/Leetcode/tree/master/3481-second-day-verification) |
+| [3482-analyze-organization-hierarchy](https://github.com/MarkPhamm/Leetcode/tree/master/3482-analyze-organization-hierarchy) |
 | [3488-find-top-scoring-students](https://github.com/MarkPhamm/Leetcode/tree/master/3488-find-top-scoring-students) |
 | [3505-find-cities-in-each-state](https://github.com/MarkPhamm/Leetcode/tree/master/3505-find-cities-in-each-state) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3512-bitwise-user-permissions-analysis) |
