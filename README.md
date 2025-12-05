@@ -307,6 +307,7 @@
 | [2534-employees-with-deductions](https://github.com/MarkPhamm/Leetcode/tree/master/2534-employees-with-deductions) |
 | [2622-form-a-chemical-bond](https://github.com/MarkPhamm/Leetcode/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/MarkPhamm/Leetcode/tree/master/2643-concatenate-the-name-and-the-profession) |
+| [2720-popularity-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2720-popularity-percentage) |
 | [2829-find-latest-salaries](https://github.com/MarkPhamm/Leetcode/tree/master/2829-find-latest-salaries) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/MarkPhamm/Leetcode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2840-immediate-food-delivery-iii](https://github.com/MarkPhamm/Leetcode/tree/master/2840-immediate-food-delivery-iii) |
