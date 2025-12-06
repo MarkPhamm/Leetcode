@@ -22,35 +22,38 @@ all_years as (
         max_year
     from all_years
     where year_order + 1 <= max_year
-), 
-
-calc_yearly_total as (
-select 
-    customer_id, 
-    year(order_date) year_order, 
-    sum(price) total
-from Orders 
-group by 1,2 
 ),
 
+yearly_totals as (
+    select
+        customer_id,
+        year(order_date) as year_order,
+        sum(price) as total
+    from orders
+    group by customer_id, year(order_date)
+),
 
-calc_prev_total as (
-select 
-    customer_id, 
-    year_order, 
-    coalesce(total, 0) total,
-    coalesce(lag(coalesce(total, 0)) over(partition by customer_id order by year_order),0) prev_total
-from all_years 
-left join calc_yearly_total
-using(year_order, customer_id)
+filled as (
+    select
+        a.customer_id,
+        a.year_order,
+        coalesce(t.total, 0) as total
+    from all_years a
+    left join yearly_totals t
+        on a.customer_id = t.customer_id
+        and a.year_order = t.year_order
+),
+
+calc_prev as (
+    select
+        customer_id,
+        year_order,
+        total,
+        lag(total, 1, 0) over(partition by customer_id order by year_order) as prev_total
+    from filled
 )
 
-select 
-    distinct customer_id 
-from Orders
-where customer_id not in 
-(
-    select distinct customer_id from calc_prev_total
-    where prev_total >= total 
-)
-
+select distinct customer_id
+from calc_prev
+group by customer_id
+having sum(prev_total >= total) = 0;
