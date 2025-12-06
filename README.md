@@ -300,6 +300,7 @@
 | [2446-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/MarkPhamm/Leetcode/tree/master/2446-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2451-product-sales-analysis-iv](https://github.com/MarkPhamm/Leetcode/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
+| [2474-customers-with-strictly-increasing-purchases](https://github.com/MarkPhamm/Leetcode/tree/master/2474-customers-with-strictly-increasing-purchases) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/MarkPhamm/Leetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
