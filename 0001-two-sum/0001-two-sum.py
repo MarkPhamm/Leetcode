@@ -1,9 +1,12 @@
+#Loop through each element x and find if there is another value that equals to (target - x)
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict = {}
-        for index, num in enumerate(nums):
-            complement = target - num
-            if complement in dict:
-                return dict[complement], index
+        seen = {}
+        for k,v in enumerate(nums):
+            if v not in seen:
+                seen[target-v] = k
             else: 
-                dict[num] = index
+                return [k, seen[v]]
+        print(seen)
+        
