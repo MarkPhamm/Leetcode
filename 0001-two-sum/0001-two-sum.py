@@ -5,8 +5,8 @@ class Solution:
         seen = {}
         for k,v in enumerate(nums):
             if v not in seen:
-                seen[target-v] = k
+                seen[target-v] = k # store the compensate and current index
             else: 
-                return [k, seen[v]]
+                return [seen[v], k] # if we found the pair
         print(seen)
         
