@@ -606,6 +606,7 @@
 | [0234-palindrome-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/MarkPhamm/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/MarkPhamm/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MarkPhamm/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -656,6 +657,7 @@
 | [0242-valid-anagram](https://github.com/MarkPhamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/MarkPhamm/Leetcode/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/MarkPhamm/Leetcode/tree/master/0259-3sum-smaller) |
+| [0295-find-median-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MarkPhamm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -810,6 +812,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MarkPhamm/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/MarkPhamm/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/MarkPhamm/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -833,6 +836,7 @@
 | [0170-two-sum-iii-data-structure-design](https://github.com/MarkPhamm/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0225-implement-stack-using-queues](https://github.com/MarkPhamm/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MarkPhamm/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/MarkPhamm/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
@@ -899,6 +903,7 @@
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/MarkPhamm/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0295-find-median-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/MarkPhamm/Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/MarkPhamm/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/MarkPhamm/Leetcode/tree/master/0969-number-of-recent-calls) |
