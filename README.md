@@ -529,6 +529,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MarkPhamm/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MarkPhamm/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MarkPhamm/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MarkPhamm/Leetcode/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/MarkPhamm/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0217-contains-duplicate](https://github.com/MarkPhamm/Leetcode/tree/master/0217-contains-duplicate) |
@@ -827,6 +828,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MarkPhamm/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MarkPhamm/Leetcode/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/MarkPhamm/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0225-implement-stack-using-queues](https://github.com/MarkPhamm/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -866,6 +868,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MarkPhamm/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MarkPhamm/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MarkPhamm/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/MarkPhamm/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MarkPhamm/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -885,6 +888,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MarkPhamm/Leetcode/tree/master/0146-lru-cache) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Number Theory
