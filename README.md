@@ -54,6 +54,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MarkPhamm/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MarkPhamm/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/MarkPhamm/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/MarkPhamm/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -550,6 +551,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MarkPhamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MarkPhamm/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/MarkPhamm/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/MarkPhamm/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/MarkPhamm/Leetcode/tree/master/1044-find-common-characters) |
 | [1098-largest-unique-number](https://github.com/MarkPhamm/Leetcode/tree/master/1098-largest-unique-number) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/MarkPhamm/Leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -666,6 +668,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MarkPhamm/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MarkPhamm/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/MarkPhamm/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MarkPhamm/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/MarkPhamm/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/MarkPhamm/Leetcode/tree/master/1083-two-sum-less-than-k) |
@@ -759,6 +762,7 @@
 | [0367-valid-perfect-square](https://github.com/MarkPhamm/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MarkPhamm/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/MarkPhamm/Leetcode/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/MarkPhamm/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/MarkPhamm/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1066-fixed-point](https://github.com/MarkPhamm/Leetcode/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/MarkPhamm/Leetcode/tree/master/1083-two-sum-less-than-k) |
