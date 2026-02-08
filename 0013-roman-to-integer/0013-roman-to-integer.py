@@ -1,23 +1,24 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        dict = {
-            "I":1,
-            "V":5,
-            "X":10,
-            "L":50,
-            "C":100,
-            "D":500,
-            "M":1000
+        roman_map = {
+            "I": 1,
+            "V": 5,
+            "X": 10,
+            "L": 50,
+            "C": 100,
+            "D": 500,
+            "M": 1000
         }
     
-        sum = 0
-        i = 0
-        n = len(s)
-        while i < n:
-            if i < n-1 and dict[s[i]] < dict[s[i+1]]:
-                sum+= dict[s[i+1]] - dict[s[i]]
-                i+=2
+        ans = 0 
+        for i in range(len(s)-1):
+            cur_char = s[i]
+            next_char = s[i+1]
+            cur_val = roman_map[cur_char]
+            next_val = roman_map[next_char]
+            if cur_val < next_val:
+                ans -= cur_val
             else:
-                sum+= dict[s[i]]
-                i+=1
-        return sum
+                ans += cur_val
+        ans += roman_map[s[-1]]
+        return ans 
