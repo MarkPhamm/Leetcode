@@ -5,28 +5,35 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # 342 + 465 = 807
-        # Idea: create a carry variable
-        # Step 1: carry will be the sum of the current index of l1 and l2
-        # Step 2: traverse l1 and l2
-        # Step 3: update next node = carry % 10, update cur node = cur.next
-        # Step 4: update carry = carry // 10
-        dummy = cur = ListNode()
-        carry = 0
+            ## brute force
+            l1_list = []
+            l2_list = []
 
-        while l1 != None or l2!= None or carry != 0:
-            if l1 != None:
-                carry += l1.val
-                l1 = l1.next
-            if l2 != None:
-                carry += l2.val
+            while l1:
+                l1_list.append(l1.val)
+                l1 = l1.next 
+            
+            while l2:
+                l2_list.append(l2.val)
                 l2 = l2.next
-            cur.next = ListNode(carry % 10)
-            cur = cur.next
-            carry //= 10
-        return dummy.next
+            
+            num1 = 0
+            for x in reversed(l1_list):
+                num1 = num1 * 10 + x
 
+            
+            num2 = 0
+            for x in reversed(l2_list):
+                num2 = num2 * 10 + x
 
+            total = num1+num2  
+            
+            dummy = ListNode()
+            cur = dummy
 
-
+            for digit in str(total)[::-1]:
+                cur.next = ListNode(int(digit))
+                cur = cur.next
         
+            return dummy.next 
+
