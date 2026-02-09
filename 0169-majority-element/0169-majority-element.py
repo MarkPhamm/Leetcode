@@ -1,11 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        threshold = n/2 
-        
-        hashmap = {}
-        for n in nums: 
-            hashmap[n] = hashmap.get(n, 0) + 1
-            if hashmap[n] >= threshold:
-                return n 
-    
+        res = nums[0]
+        count = 0 
+
+        for n in nums:
+            if n == res:
+                count += 1
+            else:
+                count -= 1
+                if count < 0:
+                    count = 1
+                    res = n 
+        return res 
