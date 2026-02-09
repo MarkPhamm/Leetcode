@@ -134,6 +134,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MarkPhamm/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MarkPhamm/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MarkPhamm/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/MarkPhamm/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MarkPhamm/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MarkPhamm/Leetcode/tree/master/3429-special-array-i) |
