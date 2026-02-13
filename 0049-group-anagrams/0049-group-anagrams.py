@@ -1,17 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap = {}
+        lookup = {}
         for string in strs:
-            key = ''.join(sorted(list(string)))
-            print(key)
-            if key  in hashmap:
-                hashmap[key].append(string)
-            else:
-                hashmap[key] = [string]
+            str_sorted = sorted(string)
+            common_key = tuple(str_sorted)
+            
+            lookup[common_key] = lookup.get(common_key, [])
+            lookup[common_key].append(string)
         
         ans = []
-        for key, val in hashmap.items():
-            ans.append(val)
+        for v in lookup.values():
+            ans.append(v)
         
-        return ans
-        
+        return ans 
