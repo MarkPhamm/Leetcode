@@ -1,9 +1,17 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
+        if set(s) != set(t):
             return False
-        nc = set(s)
-        for i in nc:
-            if s.count(i) != t.count(i):
-                return False
-        return True
+
+        lookup = {}
+        for char in s:
+            lookup[char] = lookup.get(char, 0) + 1
+        
+        for char in t:
+            lookup[char] = lookup.get(char, 0) - 1
+            if lookup[char] == 0:
+                del(lookup[char])
+        
+        return len(lookup) == 0
+
+        
