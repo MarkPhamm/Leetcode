@@ -9,16 +9,17 @@ class Solution:
             "D": 500,
             "M": 1000
         }
-    
-        ans = 0 
+        ans = 0
+
+
         for i in range(len(s)-1):
             cur_char = s[i]
             next_char = s[i+1]
-            cur_val = roman_map[cur_char]
-            next_val = roman_map[next_char]
-            if cur_val < next_val:
-                ans -= cur_val
+
+            if roman_map[cur_char] < roman_map[next_char]:
+                ans -= roman_map[cur_char]
             else:
-                ans += cur_val
+                ans += roman_map[cur_char]
+
         ans += roman_map[s[-1]]
         return ans 
