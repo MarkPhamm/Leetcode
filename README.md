@@ -328,6 +328,7 @@
 | [2842-find-active-users](https://github.com/MarkPhamm/Leetcode/tree/master/2842-find-active-users) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/MarkPhamm/Leetcode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 | [3002-flight-occupancy-and-waitlist-analysis](https://github.com/MarkPhamm/Leetcode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
+| [3061-calculate-trapping-rain-water](https://github.com/MarkPhamm/Leetcode/tree/master/3061-calculate-trapping-rain-water) |
 | [3103-find-trending-hashtags-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3103-find-trending-hashtags-ii) |
 | [3155-highest-salaries-difference](https://github.com/MarkPhamm/Leetcode/tree/master/3155-highest-salaries-difference) |
 | [3156-rolling-average-steps](https://github.com/MarkPhamm/Leetcode/tree/master/3156-rolling-average-steps) |
