@@ -3,7 +3,6 @@ class TwoSum:
     def __init__(self):
         self.arr = []
 
-
     def add(self, number: int) -> None:
         self.arr.append(number)
         return None
@@ -13,7 +12,6 @@ class TwoSum:
         for num in self.arr:
             if num in hashmap:
                 return True 
-                break 
             else:
                 hashmap[value - num] = num
         return False
