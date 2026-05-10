@@ -10,7 +10,16 @@ select
     from HallEvents
     order by end_day 
 ), 
-calc_prev_end_day_range as (
+calc_prev_end_day_range as ( 
+# the idea is that, if a larger end date is present, we will use that end date to check with the next start_date eg 
+# compare with prev_end_day_range instead of end_day
+-- | hall_id | start_day  | end_day    | prev_end_day | prev_end_day_range | streak_start | group_id |
+-- | ------- | ---------- | ---------- | ------------ | ------------------ | ------------ | -------- |
+-- | 2       | 2022-12-08 | 2023-01-04 | null         | null               | 1            | 1        |
+-- | 2       | 2022-12-09 | 2023-01-05 | 2023-01-04   | 2023-01-04         | 0            | 1        |
+-- | 2       | 2022-12-13 | 2023-01-26 | 2023-01-05   | 2023-01-05         | 0            | 1        |
+-- | 2       | 2023-01-04 | 2023-01-15 | 2023-01-26   | 2023-01-26         | 0            | 1        |
+-- | 2       | 2023-01-20 | 2023-01-22 | 2023-01-15   | 2023-01-26         | 0            | 1        |
     select  
         *, 
         max(prev_end_day) over(partition by hall_id order by start_day) prev_end_day_range
