@@ -314,6 +314,7 @@
 | [2452-product-sales-analysis-v](https://github.com/MarkPhamm/Leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2474-customers-with-strictly-increasing-purchases](https://github.com/MarkPhamm/Leetcode/tree/master/2474-customers-with-strictly-increasing-purchases) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/MarkPhamm/Leetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
+| [2494-merge-overlapping-events-in-the-same-hall](https://github.com/MarkPhamm/Leetcode/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/MarkPhamm/Leetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/MarkPhamm/Leetcode/tree/master/2516-sort-the-olympic-table) |
 | [2523-change-null-values-in-a-table-to-the-previous-value](https://github.com/MarkPhamm/Leetcode/tree/master/2523-change-null-values-in-a-table-to-the-previous-value) |
