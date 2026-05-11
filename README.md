@@ -333,6 +333,7 @@
 | [3103-find-trending-hashtags-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3103-find-trending-hashtags-ii) |
 | [3155-highest-salaries-difference](https://github.com/MarkPhamm/Leetcode/tree/master/3155-highest-salaries-difference) |
 | [3156-rolling-average-steps](https://github.com/MarkPhamm/Leetcode/tree/master/3156-rolling-average-steps) |
+| [3156-employee-task-duration-and-concurrent-tasks](https://github.com/MarkPhamm/Leetcode/tree/master/3156-employee-task-duration-and-concurrent-tasks) |
 | [3160-calculate-orders-within-each-interval](https://github.com/MarkPhamm/Leetcode/tree/master/3160-calculate-orders-within-each-interval) |
 | [3188-find-top-scoring-students-ii](https://github.com/MarkPhamm/Leetcode/tree/master/3188-find-top-scoring-students-ii) |
 | [3205-market-analysis-iii](https://github.com/MarkPhamm/Leetcode/tree/master/3205-market-analysis-iii) |
